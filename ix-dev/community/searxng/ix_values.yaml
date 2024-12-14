@@ -1,7 +1,7 @@
 images:
   image:
     repository: searxng/searxng
-    tag: 2024.12.1-4a8d333d5
+    tag: 2024.12.14-db67efae6
 
 consts:
   searxng_container_name: searxng
